@@ -1,7 +1,7 @@
 
-<h1  style="">Smart Share</h1>
+<h1  style="">Yoga Classes Registration Dashboard</h1>
 
-<h4 >A Decentralized Web3 application that allows users to store and share files over ethereum blockchain network.Files are stored on the InterPlanetary File System(IPFS) and releated user data gets stored on the ethereum blockchain.
+<h4 >A simple react form that takes user details such as name, age, address, phone number and validate user and Complete the registration payment.
 </h4>
 
 <h3>Frameworks/Libraries:</h3>
@@ -19,35 +19,24 @@
 <h3 >Enter registration details</h3>
 <p>Users needs to enter correct details and the system validate the user for enrollment requirements</p>
 <p align="left" width="100%">
-    <img width="60%"  src="https://github.com/Sarthak762/Smart-Share/blob/main/images/Upload%203.png"> 
+    <img width="60%"  src="https://github.com/Sarthak762/Yoga-Class-Admission-Dashboard/blob/main/screenshots/Screenshot%20(1).png"> 
 </p>
-<h3 >Select File</h3>
-<p>File can be selected from local device storage and file name must be entered for uploading.</p>
 <p align="left" width="100%">
-    <img width="60%" src="https://github.com/Sarthak762/Smart-Share/blob/main/images/Upload%201.png"> 
+    <img width="60%" src="https://github.com/Sarthak762/Yoga-Class-Admission-Dashboard/blob/main/screenshots/Screenshot%20(2).png"> 
 </p>
 
-<h3 >Metamask</h3>
-<p>User must have metamask installed and setup as browser extension in order to connect to the ethereum network and initiate the upload.</p>
 <p align="left" width="100%">
-    <img width="60%" src="https://github.com/Sarthak762/Smart-Share/blob/main/images/Upload%202.png"> 
+    <img width="60%" src="https://github.com/Sarthak762/Yoga-Class-Admission-Dashboard/blob/main/screenshots/Screenshot%20(3).png"> 
 </p>
 
-<h3 >File DashBoard</h3>
-<p>All the files uploaded by a particular user from a particular metamask account gets display on the file dashboard and can be selected from here to share to other users.</p>
 <p align="left" width="100%">
-    <img width="60%" src="https://github.com/Sarthak762/Smart-Share/blob/main/images/File%20Dashboard.png"> 
+    <img width="60%" src="https://github.com/Sarthak762/Yoga-Class-Admission-Dashboard/blob/main/screenshots/Screenshot%20(4).png"> 
 </p>
 
 
-<h3 >IPFS</h3>
-<p>In order to run the above application in a local development environment, one needs to install and run IPFS daemon.</p>
+<h3 >Data Stored in MySQL Database</h3>
+<p>User registration data stored in MySql database and viewed and configured through MySqlworkbench</p>
 <p align="left" width="100%">
-    <img width="60%" src="https://github.com/Sarthak762/Smart-Share/blob/main/images/Ipfs.png"> 
+    <img width="60%" src="https://github.com/Sarthak762/Yoga-Class-Admission-Dashboard/blob/main/screenshots/Screenshot%20(6).png"> 
 </p>
 
-<h3 >Ganache</h3>
-<p>In local development environment the ethereum smart contract of the application is deployed on ganache local ethereum instance using truffle framework.</p>
-<p align="left" width="100%">
-    <img width="60%" src="https://github.com/Sarthak762/Smart-Share/blob/main/images/Ganache.png"> 
-</p>
