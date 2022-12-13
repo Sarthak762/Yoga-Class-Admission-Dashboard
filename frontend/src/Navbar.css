@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  background-color: #1f3962;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 50px;
+  color: white;
+  top: 0;
+  position: sticky;
+  z-index: 1;
+}
+.title {
+  padding: 3px 3px;
+  margin: 1px 25px;
+}
